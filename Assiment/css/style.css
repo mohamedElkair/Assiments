@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(172, 174, 230);
+    width: 50%;
+    margin: auto;
+    margin-top: 70px;
+    padding: 50px;
+    border-radius:15px;
+}
+ .main-head{
+    text-align: center;
+}
+.input{
+    display: inline-block;
+    width: 90%;
+    padding: 12px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+    border:1px solid transparent;
+    border-radius: 8px;
+}
+.signup-form .input:focus{
+    border: 1px solid antiquewhite;
+    outline: none;
+}
+.input1{
+    margin-left: 10px;
+}
+.btn{
+   margin-left: 10px;
+   background-color:rgb(88, 105, 97);
+   border-radius: 6px;
+  padding: 10px 20px;
+   margin-top: 15px;
+}
+.btn:hover{
+    background-color: blue;
+}
+.radion-btn{
+    text-align: center;
+}
+.checkbox{
+    text-align: center;
+}
