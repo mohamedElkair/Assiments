@@ -1,0 +1,158 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.a{
+    text-decoration: none;
+}
+@font-face{
+    font-family: Rubik-Medium;
+    src: url(../font/Rubik-Medium.ttf);
+}
+@font-face{
+    font-family: Rubik-Regular;
+    src: url(../font/Rubik-Regular.ttf);
+}
+.contianer-basic{
+    padding: 50px;
+}
+.cotanier-1{
+   display: flex;
+}
+.pragragh{
+    margin-left: -197px;
+    margin-top: 50px;
+}
+.logo{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.text-1{
+    font-family: Rubik-Medium;
+    font-size: 48px;
+    color: #242A45;
+    opacity: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.text-2{
+    font-family: Rubik-Regular;
+    font-size: 18px;
+    color: #242A45;
+    opacity: 53%;
+    margin-left: 50px;
+
+}
+.btn{
+    background-color: #5267DF;
+    color:#FFFFFF;
+    font-family:Rubik-Medium;
+    font-size:14px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-top:30px;
+    padding: 10px;
+    border-radius: 7px;
+}
+.btn:hover{
+    background-color: #6e7fde ;
+}
+.btn2{
+    background-color: #F7F7F7;
+    color:#242A45;
+    font-family:Rubik-Medium;
+    font-size:14px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-top:30px;
+    padding: 10px;
+    border-radius: 7px;
+}
+.continer-2{
+    display: flex;
+
+}
+.char-2{
+    margin-left: 40px;
+}
+.poss-per{
+    margin-left: 100px;
+    padding: 68px;
+}
+.text-first{
+    color: #242A45;
+    font-family: Rubik-Medium;
+    font-size: 32px;
+    opacity: 100%;
+}
+.text-secound{
+    font-family: Rubik-Regular;
+    font-size: 18px;
+    color: #242A45;
+    opacity: 50%;
+    padding-top: 40px;
+}
+.btn3{
+    font-family: Rubik-Medium;
+    font-size: 14px;
+    color: #FFFFFF;
+    background-color: #5267DF;
+    margin-top:30px;
+    padding: 10px;
+    border-radius: 7px;
+}
+.btn3:hover{
+    background-color: #6e7fde ;
+}
+.adders-1{
+    font-family: Rubik-Medium;
+    font-size: 32px;
+    text-align: center;
+    opacity: 100%;
+    color:#242A45;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.addres-2{
+    font-family: Rubik-Regular;
+    font-size: 18px;
+    opacity: 50%;
+    color:#242A45;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.imge{
+    margin-left: 40px;
+    padding-bottom: 20px;
+}
+.information{
+    display: flex;
+    justify-content: space-around;
+}
+.plan-1{
+    background-color: #fdf8f8;
+    border-radius: 7px;
+}
+.img-text{
+    margin-left: 20px;
+    font-family: Rubik-Medium;
+    font-size: 20px;
+}
+.img-text2{
+    font-family: Rubik-Regular;
+    font-size: 15px;
+    opacity: 50%;
+    margin-left: 21px;
+}
+.button{
+    background-color: #5267DF;
+    color: #FFFFFF;
+    margin-top:30px;
+    padding: 10px;
+    border-radius: 7px;
+    margin-left: 15PX;
+}
+.button:hover{
+    background-color: #6e7fde ;
+}
